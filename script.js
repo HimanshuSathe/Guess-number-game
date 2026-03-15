@@ -62,3 +62,5 @@ restart.addEventListener('click', function () {
     currentScore.textContent=score;
     document.querySelector('.guess').value='';
 })
+
+// add a comment to the code
